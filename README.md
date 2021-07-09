@@ -2,6 +2,8 @@
 
 I am Lahiru Jayasinghe AKA lahirujay_ | InfoSec Enthusiast | Cybersecurity Undergrad | Blogger | Intern
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 - 🔭 I’m currently working as a Trainee Information Security Engineer at hSenid Mobile Solutions
 - 🌱 I’m currently following my Undergraduate Degree at Sri Lanka Institute of Information Technology 
 - 👯 I’m looking to collaborate on Security Implementation and Automation. Focus on new deployments on Blockchain platforms have caught my eye.
